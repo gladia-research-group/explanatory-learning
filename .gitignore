@@ -155,9 +155,6 @@ desktop.ini
 .idea
 **/parser.out
 **/parsetab.py
-**/ZendoDatasetS6
-**/ZendoDatasetS6R6
-**/ZendoDatasetS6R7
 **/lightning_logs
 **/wandb
 **/checkpoints
