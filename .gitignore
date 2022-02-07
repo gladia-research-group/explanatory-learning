@@ -6,6 +6,7 @@ training_results/**
 world_labeling_results/**
 rank_analysis_results/**
 rule_induction_results/**
+interpreter_analysis_results/**
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

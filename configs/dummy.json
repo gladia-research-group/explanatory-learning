@@ -1,8 +1,8 @@
 {
-    "train_datasets": {"1438": "data/train-500.json"},
+    "train_datasets": {"500": "data/train-500.json"},
     "val_dataset": "data/val.json",
     "test_dataset": "data/test.json",
-    "training_sets": [{"structures": 10, "rules": 1438}],
+    "training_sets": [{"structures": 10, "rules": 500}],
     "model_args": {
         "empiricist_rules": {
             "structure_length": 6,
