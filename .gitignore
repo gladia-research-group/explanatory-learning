@@ -6,6 +6,7 @@ training_results/**
 world_labeling_results/**
 rank_analysis_results/**
 rule_induction_results/**
+interpreter_analysis_results/**
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -155,9 +156,6 @@ desktop.ini
 .idea
 **/parser.out
 **/parsetab.py
-**/ZendoDatasetS6
-**/ZendoDatasetS6R6
-**/ZendoDatasetS6R7
 **/lightning_logs
 **/wandb
 **/checkpoints

@@ -1,0 +1,14 @@
+wheel
+setuptools
+pytest
+ply>=3.11
+nltk>=3.5
+fire>=0.3.1
+coverage>=5.2.1
+python-dotenv>=0.14.0
+regex>=2020.7.14
+scikit-learn>=0.23.2
+tqdm==4.48.2
+pytorch-lightning==1.4
+colorama>=0.4.3
+typer>=0.3.2

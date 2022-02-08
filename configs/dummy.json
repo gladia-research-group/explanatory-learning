@@ -1,0 +1,45 @@
+{
+    "train_datasets": {"500": "data/train-500.json"},
+    "val_dataset": "data/val.json",
+    "test_dataset": "data/test.json",
+    "training_sets": [{"structures": 10, "rules": 500}],
+    "model_args": {
+        "empiricist_rules": {
+            "structure_length": 6,
+            "ninp": 16,
+            "nhid": 16,
+            "nhead": 2,
+            "nlayers": 1,
+            "dropout": 0.1,
+            "learning_rate": 3e-4
+        },
+        "empiricist_labels": {
+            "structure_length": 6,
+            "ninp": 16,
+            "nhid": 16,
+            "nhead": 2,
+            "nlayers": 1,
+            "dropout": 0.1,
+            "learning_rate": 3e-4
+        },
+        "empiricist_conscious": {
+            "structure_length": 6,
+            "ninp": 16,
+            "nhid": 16,
+            "nhead": 2,
+            "nlayers": 1,
+            "dropout": 0.1,
+            "learning_rate": 3e-4,
+            "rule_reg_coeff": 100
+        },
+        "interpreter": {
+            "ninp": 8,
+            "nhid": 16,
+            "nhead": 2,
+            "nlayers": 1,
+            "dropout": 0.1,
+            "learning_rate": 3e-4
+        }
+    },
+    "num_beams":3
+}
