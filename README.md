@@ -1,5 +1,5 @@
 # Explanatory Learning
-This is the official repository for *"Explanatory Learning: Beyond Empiricism in Neural Networks"*.
+This is the official repository for *"Explanatory Learning: Beyond Empiricism in Neural Networks"* [[arXiv](https://arxiv.org/abs/2201.10222)][[PDF](https://arxiv.org/pdf/2201.10222.pdf)].
 
 ## Datasets
 Download the datasets with the following links:
