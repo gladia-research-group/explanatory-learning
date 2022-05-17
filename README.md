@@ -35,7 +35,7 @@ pip install -r requirements.txt
 It is possible to train the models described in the paper with the following commands.
 First, while inside the root directory, you can start the training procedure for the models described in the paper with the following command:
 ```bash
-python explanatory_learning/learning/trainig.py --config-file "config.json"
+python explanatory_learning/learning/training.py --config-file "config.json"
 ```
 This will create a folder in the repository root directory named `training_results`. This folder is necessary in order to run the experiments in the paper.
 
