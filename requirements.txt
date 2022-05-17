@@ -12,5 +12,4 @@ tqdm==4.48.2
 pytorch-lightning==1.4
 colorama>=0.4.3
 typer>=0.3.2
-torch==1.8.1
 torchmetrics==0.6.0
